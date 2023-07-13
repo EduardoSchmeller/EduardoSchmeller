@@ -10,8 +10,8 @@
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html5"src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white >
 <img aling="center" alt="html5"src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black >
-<img aling="center" alt="html5"src=https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white >
-<img aling="center" alt="html5"src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white>
+<img aling="center" alt="html5"src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=nodejst&logoColor=black >
+
 
 
 
