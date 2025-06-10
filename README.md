@@ -1,17 +1,16 @@
-Welcome to my profile
+👋 Welcome to my profile!
 
-🤓 My name is Eduardo Schmeller. I live in Curitiba, Brazil.
+I'm **Eduardo Schmeller**, a Software Engineer based in Curitiba, Brazil 🇧🇷.
 
-💻 I'm a Software Engineer passionate about back-end development. I've been writing code since 2019.
+💻 I work with **Clojure, Datomic, Python**, and **JavaScript**, building **robust APIs** and **scalable back-end solutions**. I'm also experienced with **Kafka**, and cloud platforms like **AWS** and **GCP**.
 
-❤ I mainly work with Clojure, Python, and JavaScript, building robust and scalable APIs. I also enjoy exploring Cloud Computing with AWS and GCP.
+🌐 I'm interested in building practical and well-structured systems, with a focus on performance, readability, and maintainability.
 
-📫 How to reach me:
+🚀 Always open to new challenges — especially in areas like **functional programming, distributed systems**, and **cloud architecture**.
 
-Email: eduardo.schmeller@gmail.com
+📬 Get in touch:  
+- Email: eduardo.schmeller@gmail.com  
+- LinkedIn: [Eduardo Schmeller](https://www.linkedin.com/in/eduardo-schmeller)
 
-LinkedIn: Eduardo Schmeller
-
-⚡ Fun fact:
-
-When I'm not programming, I enjoy traveling by motorcycle to explore new places. My hobbies also include driving my classic car and relaxing while playing video games.
+🎮 Fun fact:  
+Outside the tech world, I enjoy **traveling by motorcycle**, driving my **classic car**, and relaxing while playing **video games**.
