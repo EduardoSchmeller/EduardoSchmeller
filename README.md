@@ -2,15 +2,15 @@
 
 I'm **Eduardo Schmeller**, a Software Engineer based in Curitiba, Brazil 🇧🇷.
 
-💻 I work with **Clojure, Datomic, Python**, and **JavaScript**, building **robust APIs** and **scalable back-end solutions**. I'm also experienced with **Kafka**, and cloud platforms like **AWS** and **GCP**.
+I work as a Backend Engineer building scalable and reliable systems.
 
-🌐 I'm interested in building practical and well-structured systems, with a focus on performance, readability, and maintainability.
+My focus is on architecture, performance, and long-term maintainability — turning complex problems into simple, well-structured solutions.
 
-🚀 Always open to new challenges — especially in areas like **functional programming, distributed systems**, and **cloud architecture**.
+I value simplicity, clean abstractions, and solving the right problems with the right level of complexity.
 
 📬 Get in touch:  
 - Email: eduardo.schmeller@gmail.com  
 - LinkedIn: [Eduardo Schmeller](https://www.linkedin.com/in/eduardo-schmeller)
 
 🎮 Fun fact:  
-Outside the tech world, I enjoy **traveling by motorcycle**, driving my **classic car**, and relaxing while playing **video games**.
+Outside the tech world, I enjoy riding my motorcycle, driving my classic car, and playing video games.
